@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace t4
 {
-    class Program
+    class t4App
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world...");
-            Console.WriteLine("Hello, world...");
 
             for (var i=0; i<10; i++)
             {
-            Console.WriteLine($"{i}.Hello, world...");
-
+                Console.WriteLine($"{i}.Hello, world...");
             }
         }
     }
