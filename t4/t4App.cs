@@ -18,6 +18,7 @@ namespace t4
             {
                 Console.WriteLine($"{i}.Hello, world...");
             }
+            Console.WriteLine("The quick brown fox jumps over the lazy dog...");
         }
     }
 }
