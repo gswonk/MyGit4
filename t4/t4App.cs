@@ -12,7 +12,7 @@ namespace t4
         {
             Console.WriteLine("Hello, world...");
 
-            for (var i=0; i<110; i++)
+            for (var i=0; i<20; i++)
             {
                 Console.WriteLine($"{i}.Hello, world...");
             }
