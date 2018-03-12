@@ -12,6 +12,7 @@ namespace t4
         {
             Console.WriteLine("Hello, world...");
             Console.WriteLine("The rains in Spain fall mainly on the plains...");
+            Console.WriteLine("The quick brown fox jumps over the lazy dog...");
 
             for (var i=0; i<10; i++)
             {
