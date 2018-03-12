@@ -11,6 +11,7 @@ namespace t4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world...");
+            Console.WriteLine("The rains in Spain fall mainly on the plains...");
 
             for (var i=0; i<10; i++)
             {
